@@ -1,0 +1,801 @@
+name,attack,defense,stamina
+Bulbasaur,118.0,118.0,90.0
+Ivysaur,151.0,151.0,120.0
+Venusaur,198.0,198.0,160.0
+VenusaurMega Venusaur,241.0,247.0,160.0
+Charmander,116.0,96.0,78.0
+Charmeleon,158.0,129.0,116.0
+Charizard,223.0,176.0,156.0
+CharizardMega Charizard X,273.0,227.0,156.0
+CharizardMega Charizard Y,319.0,232.0,156.0
+Squirtle,94.0,122.0,88.0
+Wartortle,126.0,155.0,118.0
+Blastoise,171.0,210.0,158.0
+BlastoiseMega Blastoise,264.0,240.0,158.0
+Caterpie,55.0,62.0,90.0
+Metapod,45.0,94.0,100.0
+Butterfree,167.0,151.0,120.0
+Weedle,63.0,55.0,80.0
+Kakuna,46.0,86.0,90.0
+Beedrill,169.0,150.0,130.0
+BeedrillMega Beedrill,303.0,171.0,130.0
+Pidgey,85.0,76.0,80.0
+Pidgeotto,117.0,108.0,126.0
+Pidgeot,166.0,157.0,166.0
+PidgeotMega Pidgeot,280.0,175.0,166.0
+Rattata,103.0,70.0,60.0
+Raticate,161.0,144.0,110.0
+Spearow,112.0,61.0,80.0
+Fearow,182.0,135.0,130.0
+Ekans,110.0,102.0,70.0
+Arbok,167.0,158.0,120.0
+Pikachu,112.0,101.0,70.0
+Raichu,193.0,165.0,120.0
+Sandshrew,126.0,145.0,100.0
+Sandslash,182.0,202.0,150.0
+Nidoran♀,86.0,94.0,110.0
+Nidorina,117.0,126.0,140.0
+Nidoqueen,180.0,174.0,180.0
+Nidoran♂,105.0,76.0,92.0
+Nidorino,137.0,112.0,122.0
+Nidoking,204.0,157.0,162.0
+Clefairy,107.0,116.0,140.0
+Clefable,178.0,171.0,190.0
+Vulpix,96.0,122.0,76.0
+Ninetales,169.0,204.0,146.0
+Jigglypuff,80.0,44.0,230.0
+Wigglytuff,156.0,93.0,280.0
+Zubat,83.0,76.0,80.0
+Golbat,161.0,153.0,150.0
+Oddish,131.0,116.0,90.0
+Gloom,153.0,139.0,120.0
+Vileplume,202.0,170.0,150.0
+Paras,121.0,99.0,70.0
+Parasect,165.0,146.0,120.0
+Venonat,100.0,102.0,120.0
+Venomoth,179.0,150.0,140.0
+Diglett,109.0,88.0,20.0
+Dugtrio,167.0,147.0,70.0
+Meowth,92.0,81.0,80.0
+Persian,150.0,139.0,130.0
+Psyduck,122.0,96.0,100.0
+Golduck,191.0,163.0,160.0
+Mankey,148.0,87.0,80.0
+Primeape,207.0,144.0,130.0
+Growlithe,136.0,96.0,110.0
+Arcanine,227.0,166.0,180.0
+Poliwag,101.0,82.0,80.0
+Poliwhirl,130.0,130.0,130.0
+Poliwrath,182.0,187.0,180.0
+Abra,195.0,103.0,50.0
+Kadabra,232.0,138.0,80.0
+Alakazam,271.0,194.0,110.0
+AlakazamMega Alakazam,367.0,210.0,110.0
+Machop,137.0,88.0,140.0
+Machoke,177.0,130.0,160.0
+Machamp,234.0,162.0,180.0
+Bellsprout,139.0,64.0,100.0
+Weepinbell,172.0,95.0,130.0
+Victreebel,207.0,138.0,160.0
+Tentacool,97.0,182.0,80.0
+Tentacruel,166.0,237.0,160.0
+Geodude,132.0,163.0,80.0
+Graveler,164.0,196.0,110.0
+Golem,211.0,229.0,160.0
+Ponyta,170.0,132.0,100.0
+Rapidash,207.0,167.0,130.0
+Slowpoke,109.0,109.0,180.0
+Slowbro,177.0,194.0,190.0
+SlowbroMega Slowbro,224.0,305.0,190.0
+Magnemite,165.0,128.0,50.0
+Magneton,223.0,182.0,100.0
+Farfetch'd,124.0,118.0,104.0
+Doduo,158.0,88.0,70.0
+Dodrio,218.0,145.0,120.0
+Seel,85.0,128.0,130.0
+Dewgong,139.0,184.0,180.0
+Grimer,135.0,90.0,160.0
+Muk,190.0,184.0,210.0
+Shellder,116.0,168.0,60.0
+Cloyster,186.0,323.0,100.0
+Gastly,186.0,70.0,60.0
+Haunter,223.0,112.0,90.0
+Gengar,261.0,156.0,120.0
+GengarMega Gengar,349.0,206.0,120.0
+Onix,85.0,288.0,70.0
+Drowzee,89.0,158.0,120.0
+Hypno,144.0,215.0,170.0
+Krabby,181.0,156.0,60.0
+Kingler,240.0,214.0,110.0
+Voltorb,109.0,114.0,80.0
+Electrode,173.0,179.0,120.0
+Exeggcute,107.0,140.0,120.0
+Exeggutor,233.0,158.0,190.0
+Cubone,90.0,165.0,100.0
+Marowak,144.0,200.0,120.0
+Hitmonlee,224.0,211.0,100.0
+Hitmonchan,193.0,212.0,100.0
+Lickitung,108.0,137.0,180.0
+Koffing,119.0,164.0,80.0
+Weezing,174.0,221.0,130.0
+Rhyhorn,140.0,157.0,160.0
+Rhydon,222.0,206.0,210.0
+Chansey,60.0,176.0,500.0
+Tangela,183.0,205.0,130.0
+Kangaskhan,181.0,165.0,210.0
+KangaskhanMega Kangaskhan,246.0,210.0,210.0
+Horsea,129.0,125.0,60.0
+Seadra,187.0,182.0,110.0
+Goldeen,123.0,115.0,90.0
+Seaking,175.0,154.0,160.0
+Staryu,137.0,112.0,60.0
+Starmie,210.0,184.0,120.0
+Mr. Mime,192.0,233.0,80.0
+Scyther,218.0,170.0,140.0
+Jynx,223.0,182.0,130.0
+Electabuzz,198.0,173.0,130.0
+Magmar,206.0,169.0,130.0
+Pinsir,238.0,197.0,130.0
+PinsirMega Pinsir,305.0,247.0,130.0
+Tauros,198.0,197.0,150.0
+Magikarp,29.0,102.0,40.0
+Gyarados,237.0,197.0,190.0
+GyaradosMega Gyarados,292.0,258.0,190.0
+Lapras,165.0,180.0,260.0
+Ditto,91.0,91.0,96.0
+Eevee,104.0,121.0,110.0
+Vaporeon,205.0,177.0,260.0
+Jolteon,232.0,201.0,130.0
+Flareon,246.0,204.0,130.0
+Porygon,153.0,139.0,130.0
+Omanyte,155.0,174.0,70.0
+Omastar,207.0,227.0,140.0
+Kabuto,148.0,162.0,60.0
+Kabutops,220.0,203.0,120.0
+Aerodactyl,221.0,164.0,160.0
+AerodactylMega Aerodactyl,292.0,216.0,160.0
+Snorlax,190.0,190.0,320.0
+Articuno,192.0,249.0,180.0
+Zapdos,253.0,188.0,180.0
+Moltres,251.0,184.0,180.0
+Dratini,119.0,94.0,82.0
+Dragonair,163.0,138.0,122.0
+Dragonite,263.0,201.0,182.0
+Mewtwo,330.0,200.0,212.0
+MewtwoMega Mewtwo X,412.0,222.0,212.0
+MewtwoMega Mewtwo Y,426.0,258.0,212.0
+Mew,210.0,210.0,200.0
+Chikorita,92.0,122.0,90.0
+Bayleef,122.0,155.0,120.0
+Meganium,168.0,202.0,160.0
+Cyndaquil,116.0,96.0,78.0
+Quilava,158.0,129.0,116.0
+Typhlosion,223.0,176.0,156.0
+Totodile,117.0,116.0,100.0
+Croconaw,150.0,151.0,130.0
+Feraligatr,205.0,197.0,170.0
+Sentret,79.0,77.0,70.0
+Furret,148.0,130.0,170.0
+Hoothoot,67.0,101.0,120.0
+Noctowl,145.0,179.0,200.0
+Ledyba,72.0,142.0,80.0
+Ledian,107.0,209.0,110.0
+Spinarak,105.0,73.0,80.0
+Ariados,161.0,128.0,140.0
+Crobat,194.0,178.0,170.0
+Chinchou,106.0,106.0,150.0
+Lanturn,146.0,146.0,250.0
+Pichu,77.0,63.0,40.0
+Cleffa,75.0,91.0,100.0
+Igglybuff,69.0,34.0,180.0
+Togepi,67.0,116.0,70.0
+Togetic,140.0,191.0,110.0
+Natu,134.0,89.0,80.0
+Xatu,192.0,146.0,130.0
+Mareep,114.0,82.0,110.0
+Flaaffy,145.0,112.0,140.0
+Ampharos,211.0,172.0,180.0
+AmpharosMega Ampharos,294.0,206.0,180.0
+Bellossom,169.0,189.0,150.0
+Marill,37.0,93.0,140.0
+Azumarill,112.0,152.0,200.0
+Sudowoodo,167.0,198.0,140.0
+Politoed,174.0,192.0,180.0
+Hoppip,67.0,101.0,70.0
+Skiploom,91.0,127.0,110.0
+Jumpluff,118.0,197.0,150.0
+Aipom,136.0,112.0,110.0
+Sunkern,55.0,55.0,60.0
+Sunflora,185.0,148.0,150.0
+Yanma,154.0,94.0,130.0
+Wooper,75.0,75.0,110.0
+Quagsire,152.0,152.0,190.0
+Espeon,261.0,194.0,130.0
+Umbreon,126.0,250.0,190.0
+Murkrow,175.0,87.0,120.0
+Slowking,177.0,194.0,190.0
+Misdreavus,167.0,167.0,120.0
+Unown,136.0,91.0,96.0
+Wobbuffet,60.0,106.0,380.0
+Girafarig,182.0,133.0,140.0
+Pineco,108.0,146.0,100.0
+Forretress,161.0,242.0,150.0
+Dunsparce,131.0,131.0,200.0
+Gligar,143.0,204.0,130.0
+Steelix,148.0,333.0,150.0
+SteelixMega Steelix,212.0,388.0,150.0
+Snubbull,137.0,89.0,120.0
+Granbull,212.0,137.0,180.0
+Qwilfish,184.0,148.0,130.0
+Scizor,236.0,191.0,140.0
+ScizorMega Scizor,279.0,270.0,140.0
+Shuckle,17.0,396.0,40.0
+Heracross,234.0,189.0,160.0
+HeracrossMega Heracross,334.0,228.0,160.0
+Sneasel,189.0,157.0,110.0
+Teddiursa,142.0,93.0,120.0
+Ursaring,236.0,144.0,180.0
+Slugma,118.0,71.0,80.0
+Magcargo,139.0,209.0,100.0
+Swinub,90.0,74.0,100.0
+Piloswine,181.0,147.0,200.0
+Corsola,118.0,156.0,110.0
+Remoraid,127.0,69.0,70.0
+Octillery,197.0,141.0,150.0
+Delibird,128.0,90.0,90.0
+Mantine,149.0,260.0,130.0
+Skarmory,149.0,260.0,130.0
+Houndour,152.0,93.0,90.0
+Houndoom,224.0,159.0,150.0
+HoundoomMega Houndoom,289.0,194.0,150.0
+Kingdra,194.0,194.0,150.0
+Phanpy,107.0,107.0,180.0
+Donphan,214.0,214.0,180.0
+Porygon2,198.0,183.0,170.0
+Stantler,192.0,132.0,146.0
+Smeargle,40.0,88.0,110.0
+Tyrogue,64.0,64.0,70.0
+Hitmontop,173.0,214.0,100.0
+Smoochum,153.0,116.0,90.0
+Elekid,135.0,110.0,90.0
+Magby,151.0,108.0,90.0
+Miltank,158.0,211.0,190.0
+Blissey,129.0,229.0,510.0
+Raikou,241.0,210.0,180.0
+Entei,235.0,176.0,230.0
+Suicune,180.0,235.0,200.0
+Larvitar,115.0,93.0,100.0
+Pupitar,155.0,133.0,140.0
+Tyranitar,251.0,212.0,200.0
+TyranitarMega Tyranitar,309.0,291.0,200.0
+Lugia,193.0,323.0,212.0
+Ho-oh,263.0,301.0,212.0
+Celebi,210.0,210.0,200.0
+Treecko,124.0,104.0,80.0
+Grovyle,172.0,130.0,100.0
+Sceptile,223.0,180.0,140.0
+SceptileMega Sceptile,320.0,192.0,140.0
+Torchic,130.0,92.0,90.0
+Combusken,163.0,115.0,120.0
+Blaziken,240.0,141.0,160.0
+BlazikenMega Blaziken,329.0,168.0,160.0
+Mudkip,126.0,93.0,100.0
+Marshtomp,156.0,133.0,140.0
+Swampert,208.0,175.0,200.0
+SwampertMega Swampert,283.0,218.0,200.0
+Poochyena,96.0,63.0,70.0
+Mightyena,171.0,137.0,140.0
+Zigzagoon,58.0,80.0,76.0
+Linoone,142.0,128.0,156.0
+Wurmple,75.0,61.0,90.0
+Silcoon,60.0,91.0,100.0
+Beautifly,189.0,98.0,120.0
+Cascoon,60.0,91.0,100.0
+Dustox,98.0,172.0,120.0
+Lotad,71.0,86.0,80.0
+Lombre,112.0,128.0,120.0
+Ludicolo,173.0,191.0,160.0
+Seedot,71.0,86.0,80.0
+Nuzleaf,134.0,78.0,140.0
+Shiftry,200.0,121.0,180.0
+Taillow,106.0,61.0,80.0
+Swellow,177.0,130.0,120.0
+Wingull,106.0,61.0,80.0
+Pelipper,158.0,189.0,120.0
+Ralts,79.0,63.0,56.0
+Kirlia,117.0,100.0,76.0
+Gardevoir,237.0,220.0,136.0
+GardevoirMega Gardevoir,326.0,266.0,136.0
+Surskit,93.0,97.0,80.0
+Masquerain,150.0,154.0,140.0
+Shroomish,74.0,110.0,120.0
+Breloom,241.0,153.0,120.0
+Slakoth,104.0,104.0,120.0
+Vigoroth,159.0,159.0,160.0
+Slaking,319.0,201.0,300.0
+Nincada,80.0,153.0,62.0
+Ninjask,199.0,116.0,122.0
+Shedinja,153.0,80.0,2.0
+Whismur,92.0,42.0,128.0
+Loudred,134.0,81.0,168.0
+Exploud,179.0,142.0,208.0
+Makuhita,99.0,54.0,144.0
+Hariyama,209.0,114.0,288.0
+Azurill,36.0,71.0,100.0
+Nosepass,82.0,236.0,60.0
+Skitty,84.0,84.0,100.0
+Delcatty,127.0,127.0,140.0
+Sableye,141.0,141.0,100.0
+SableyeMega Sableye,151.0,221.0,100.0
+Mawile,155.0,155.0,100.0
+MawileMega Mawile,188.0,231.0,100.0
+Aron,121.0,168.0,100.0
+Lairon,158.0,240.0,120.0
+Aggron,198.0,314.0,140.0
+AggronMega Aggron,247.0,402.0,140.0
+Meditite,78.0,107.0,60.0
+Medicham,121.0,152.0,120.0
+MedichamMega Medicham,205.0,179.0,120.0
+Electrike,123.0,78.0,80.0
+Manectric,215.0,127.0,140.0
+ManectricMega Manectric,286.0,179.0,140.0
+Plusle,167.0,147.0,120.0
+Minun,147.0,167.0,120.0
+Volbeat,143.0,148.0,130.0
+Illumise,143.0,148.0,130.0
+Roselia,186.0,148.0,100.0
+Gulpin,80.0,99.0,140.0
+Swalot,140.0,159.0,200.0
+Carvanha,171.0,39.0,90.0
+Sharpedo,243.0,83.0,140.0
+SharpedoMega Sharpedo,289.0,147.0,140.0
+Wailmer,136.0,68.0,260.0
+Wailord,175.0,87.0,340.0
+Numel,119.0,82.0,120.0
+Camerupt,194.0,139.0,140.0
+CameruptMega Camerupt,253.0,186.0,140.0
+Torkoal,151.0,234.0,140.0
+Spoink,125.0,145.0,120.0
+Grumpig,171.0,211.0,160.0
+Spinda,116.0,116.0,120.0
+Trapinch,162.0,78.0,90.0
+Vibrava,134.0,99.0,100.0
+Flygon,205.0,168.0,160.0
+Cacnea,156.0,74.0,100.0
+Cacturne,221.0,115.0,140.0
+Swablu,76.0,139.0,90.0
+Altaria,141.0,208.0,150.0
+AltariaMega Altaria,222.0,221.0,150.0
+Zangoose,222.0,124.0,146.0
+Seviper,196.0,118.0,146.0
+Lunatone,178.0,163.0,140.0
+Solrock,178.0,163.0,140.0
+Barboach,93.0,83.0,100.0
+Whiscash,151.0,142.0,220.0
+Corphish,141.0,113.0,86.0
+Crawdaunt,224.0,156.0,126.0
+Baltoy,77.0,131.0,80.0
+Claydol,140.0,236.0,120.0
+Lileep,105.0,154.0,132.0
+Cradily,152.0,198.0,172.0
+Anorith,176.0,100.0,90.0
+Armaldo,222.0,183.0,150.0
+Feebas,29.0,102.0,40.0
+Milotic,192.0,242.0,190.0
+Castform,139.0,139.0,140.0
+Kecleon,161.0,212.0,120.0
+Shuppet,138.0,66.0,88.0
+Banette,218.0,127.0,128.0
+BanetteMega Banette,312.0,164.0,128.0
+Duskull,70.0,162.0,40.0
+Dusclops,124.0,234.0,80.0
+Tropius,136.0,165.0,198.0
+Chimecho,175.0,155.0,130.0
+Absol,246.0,120.0,130.0
+AbsolMega Absol,314.0,130.0,130.0
+Wynaut,41.0,86.0,190.0
+Snorunt,95.0,95.0,100.0
+Glalie,162.0,162.0,160.0
+GlalieMega Glalie,252.0,168.0,160.0
+Spheal,95.0,90.0,140.0
+Sealeo,137.0,132.0,180.0
+Walrein,182.0,176.0,220.0
+Clamperl,133.0,149.0,70.0
+Huntail,197.0,194.0,110.0
+Gorebyss,211.0,194.0,110.0
+Relicanth,162.0,234.0,200.0
+Luvdisc,81.0,134.0,86.0
+Bagon,134.0,107.0,90.0
+Shelgon,172.0,179.0,130.0
+Salamence,277.0,168.0,190.0
+SalamenceMega Salamence,310.0,273.0,190.0
+Beldum,96.0,141.0,80.0
+Metang,138.0,185.0,120.0
+Metagross,257.0,248.0,160.0
+MetagrossMega Metagross,300.0,310.0,160.0
+Regirock,179.0,356.0,160.0
+Regice,179.0,356.0,160.0
+Registeel,143.0,285.0,160.0
+Latias,228.0,268.0,160.0
+LatiasMega Latias,289.0,314.0,160.0
+Latios,268.0,228.0,160.0
+LatiosMega Latios,335.0,251.0,160.0
+Kyogre,297.0,276.0,200.0
+KyogrePrimal Kyogre,364.0,312.0,200.0
+Groudon,297.0,276.0,200.0
+GroudonPrimal Groudon,364.0,312.0,200.0
+Rayquaza,312.0,187.0,210.0
+RayquazaMega Rayquaza,389.0,216.0,210.0
+Jirachi,210.0,210.0,200.0
+DeoxysNormal Forme,345.0,115.0,100.0
+DeoxysAttack Forme,414.0,46.0,100.0
+DeoxysDefense Forme,144.0,330.0,100.0
+DeoxysSpeed Forme,230.0,218.0,100.0
+Turtwig,119.0,115.0,110.0
+Grotle,157.0,152.0,150.0
+Torterra,202.0,197.0,190.0
+Chimchar,113.0,86.0,88.0
+Monferno,158.0,105.0,128.0
+Infernape,222.0,151.0,152.0
+Piplup,112.0,103.0,106.0
+Prinplup,150.0,143.0,128.0
+Empoleon,210.0,193.0,168.0
+Starly,101.0,58.0,80.0
+Staravia,142.0,99.0,110.0
+Staraptor,234.0,145.0,170.0
+Bidoof,80.0,73.0,118.0
+Bibarel,162.0,119.0,158.0
+Kricketot,45.0,74.0,74.0
+Kricketune,160.0,100.0,154.0
+Shinx,117.0,64.0,90.0
+Luxio,159.0,95.0,120.0
+Luxray,232.0,156.0,160.0
+Budew,91.0,126.0,80.0
+Roserade,243.0,206.0,120.0
+Cranidos,218.0,75.0,134.0
+Rampardos,295.0,114.0,194.0
+Shieldon,76.0,208.0,60.0
+Bastiodon,94.0,299.0,120.0
+Burmy,53.0,83.0,80.0
+WormadamPlant Cloak,141.0,189.0,120.0
+WormadamSandy Cloak,141.0,189.0,120.0
+WormadamTrash Cloak,127.0,175.0,120.0
+Mothim,185.0,98.0,140.0
+Combee,59.0,83.0,60.0
+Vespiquen,149.0,190.0,140.0
+Pachirisu,94.0,182.0,120.0
+Buizel,132.0,70.0,110.0
+Floatzel,221.0,118.0,170.0
+Cherubi,108.0,96.0,90.0
+Cherrim,170.0,157.0,140.0
+Shellos,103.0,111.0,152.0
+Gastrodon,169.0,149.0,222.0
+Ambipom,205.0,143.0,150.0
+Drifloon,117.0,85.0,180.0
+Drifblim,180.0,107.0,300.0
+Buneary,130.0,111.0,110.0
+Lopunny,156.0,200.0,130.0
+LopunnyMega Lopunny,282.0,215.0,130.0
+Mismagius,211.0,211.0,120.0
+Honchkrow,243.0,103.0,200.0
+Glameow,109.0,85.0,98.0
+Purugly,172.0,136.0,142.0
+Chingling,114.0,94.0,90.0
+Stunky,121.0,93.0,126.0
+Skuntank,184.0,135.0,206.0
+Bronzor,43.0,154.0,114.0
+Bronzong,161.0,213.0,134.0
+Bonsly,124.0,155.0,100.0
+Mime Jr.,125.0,164.0,40.0
+Happiny,25.0,105.0,200.0
+Chatot,183.0,92.0,152.0
+Spiritomb,169.0,199.0,100.0
+Gible,124.0,84.0,116.0
+Gabite,172.0,130.0,136.0
+Garchomp,261.0,198.0,216.0
+GarchompMega Garchomp,339.0,233.0,216.0
+Munchlax,137.0,137.0,270.0
+Riolu,127.0,78.0,80.0
+Lucario,236.0,144.0,140.0
+LucarioMega Lucario,310.0,185.0,140.0
+Hippopotas,124.0,134.0,136.0
+Hippowdon,201.0,212.0,216.0
+Skorupi,93.0,168.0,80.0
+Drapion,180.0,219.0,140.0
+Croagunk,116.0,76.0,96.0
+Toxicroak,211.0,133.0,166.0
+Carnivine,187.0,136.0,148.0
+Finneon,96.0,119.0,98.0
+Lumineon,142.0,175.0,138.0
+Mantyke,105.0,212.0,90.0
+Snover,115.0,110.0,120.0
+Abomasnow,178.0,163.0,180.0
+AbomasnowMega Abomasnow,240.0,191.0,180.0
+Weavile,243.0,182.0,140.0
+Magnezone,238.0,217.0,140.0
+Lickilicky,161.0,181.0,220.0
+Rhyperior,241.0,224.0,230.0
+Tangrowth,207.0,219.0,200.0
+Electivire,249.0,173.0,150.0
+Magmortar,247.0,186.0,150.0
+Togekiss,225.0,227.0,170.0
+Yanmega,231.0,172.0,172.0
+Leafeon,216.0,254.0,130.0
+Glaceon,238.0,212.0,130.0
+Gliscor,185.0,248.0,150.0
+Mamoswine,247.0,157.0,220.0
+Porygon-Z,264.0,153.0,170.0
+Gallade,237.0,220.0,136.0
+GalladeMega Gallade,326.0,241.0,136.0
+Probopass,135.0,278.0,120.0
+Dusknoir,180.0,254.0,90.0
+Froslass,171.0,150.0,140.0
+Rotom,185.0,159.0,100.0
+RotomHeat Rotom,204.0,219.0,100.0
+RotomWash Rotom,204.0,219.0,100.0
+RotomFrost Rotom,204.0,219.0,100.0
+RotomFan Rotom,204.0,219.0,100.0
+RotomMow Rotom,204.0,219.0,100.0
+Uxie,156.0,270.0,150.0
+Mesprit,212.0,212.0,160.0
+Azelf,270.0,151.0,150.0
+Dialga,302.0,242.0,200.0
+Palkia,308.0,247.0,180.0
+Heatran,251.0,213.0,182.0
+Regigigas,315.0,231.0,220.0
+GiratinaAltered Forme,206.0,247.0,300.0
+GiratinaOrigin Forme,247.0,206.0,300.0
+Cresselia,152.0,263.0,240.0
+Phione,162.0,162.0,160.0
+Manaphy,210.0,210.0,200.0
+Darkrai,285.0,198.0,140.0
+ShayminLand Forme,210.0,210.0,200.0
+ShayminSky Forme,261.0,166.0,200.0
+Arceus,262.0,262.0,240.0
+Victini,210.0,210.0,200.0
+Snivy,88.0,107.0,90.0
+Servine,122.0,152.0,120.0
+Serperior,161.0,204.0,150.0
+Tepig,115.0,85.0,130.0
+Pignite,173.0,106.0,180.0
+Emboar,235.0,127.0,220.0
+Oshawott,117.0,85.0,110.0
+Dewott,159.0,116.0,150.0
+Samurott,212.0,164.0,190.0
+Patrat,98.0,73.0,90.0
+Watchog,165.0,139.0,120.0
+Lillipup,107.0,86.0,90.0
+Herdier,145.0,126.0,130.0
+Stoutland,206.0,182.0,170.0
+Purrloin,98.0,73.0,82.0
+Liepard,187.0,106.0,128.0
+Pansage,104.0,94.0,100.0
+Simisage,206.0,133.0,150.0
+Pansear,104.0,94.0,100.0
+Simisear,206.0,133.0,150.0
+Panpour,104.0,94.0,100.0
+Simipour,206.0,133.0,150.0
+Munna,111.0,97.0,152.0
+Musharna,183.0,171.0,232.0
+Pidove,98.0,89.0,100.0
+Tranquill,144.0,117.0,124.0
+Unfezant,226.0,160.0,160.0
+Blitzle,118.0,64.0,90.0
+Zebstrika,211.0,136.0,150.0
+Roggenrola,121.0,136.0,110.0
+Boldore,174.0,173.0,140.0
+Gigalith,226.0,223.0,170.0
+Woobat,107.0,85.0,110.0
+Swoobat,161.0,119.0,134.0
+Drilbur,154.0,88.0,120.0
+Excadrill,255.0,132.0,220.0
+Audino,114.0,163.0,206.0
+AudinoMega Audino,147.0,239.0,206.0
+Timburr,134.0,97.0,150.0
+Gurdurr,180.0,150.0,170.0
+Conkeldurr,243.0,172.0,210.0
+Tympole,98.0,78.0,100.0
+Palpitoad,128.0,109.0,150.0
+Seismitoad,188.0,150.0,210.0
+Throh,172.0,160.0,240.0
+Sawk,231.0,153.0,150.0
+Sewaddle,96.0,129.0,90.0
+Swadloon,115.0,166.0,110.0
+Leavanny,205.0,165.0,150.0
+Venipede,83.0,109.0,60.0
+Whirlipede,100.0,182.0,80.0
+Scolipede,203.0,186.0,120.0
+Cottonee,71.0,116.0,80.0
+Whimsicott,164.0,182.0,120.0
+Petilil,119.0,91.0,90.0
+Lilligant,214.0,155.0,140.0
+Basculin,189.0,134.0,140.0
+Sandile,132.0,69.0,100.0
+Krokorok,155.0,90.0,120.0
+Krookodile,229.0,163.0,190.0
+Darumaka,153.0,86.0,140.0
+DarmanitanStandard Mode,263.0,114.0,210.0
+DarmanitanZen Mode,243.0,202.0,210.0
+Maractus,201.0,130.0,150.0
+Dwebble,118.0,152.0,100.0
+Crustle,172.0,224.0,140.0
+Scraggy,132.0,132.0,100.0
+Scrafty,163.0,222.0,130.0
+Sigilyph,204.0,167.0,144.0
+Yamask,95.0,150.0,76.0
+Cofagrigus,163.0,255.0,116.0
+Tirtouga,134.0,172.0,108.0
+Carracosta,192.0,228.0,148.0
+Archen,213.0,89.0,110.0
+Archeops,292.0,139.0,150.0
+Trubbish,96.0,122.0,100.0
+Garbodor,181.0,164.0,160.0
+Zorua,153.0,78.0,80.0
+Zoroark,250.0,127.0,120.0
+Minccino,98.0,80.0,110.0
+Cinccino,198.0,130.0,150.0
+Gothita,98.0,118.0,90.0
+Gothorita,137.0,159.0,120.0
+Gothitelle,176.0,212.0,140.0
+Solosis,170.0,87.0,90.0
+Duosion,208.0,107.0,130.0
+Reuniclus,214.0,153.0,220.0
+Ducklett,84.0,96.0,124.0
+Swanna,182.0,132.0,150.0
+Vanillite,118.0,111.0,72.0
+Vanillish,151.0,143.0,102.0
+Vanilluxe,218.0,190.0,142.0
+Deerling,115.0,100.0,120.0
+Sawsbuck,198.0,146.0,160.0
+Emolga,158.0,127.0,110.0
+Karrablast,137.0,87.0,100.0
+Escavalier,223.0,187.0,140.0
+Foongus,97.0,95.0,138.0
+Amoonguss,155.0,144.0,228.0
+Frillish,115.0,150.0,110.0
+Jellicent,159.0,195.0,200.0
+Alomomola,138.0,148.0,330.0
+Joltik,110.0,98.0,100.0
+Galvantula,201.0,128.0,140.0
+Ferroseed,82.0,157.0,88.0
+Ferrothorn,158.0,230.0,148.0
+Klink,98.0,126.0,80.0
+Klang,150.0,179.0,120.0
+Klinklang,199.0,230.0,120.0
+Tynamo,105.0,78.0,70.0
+Eelektrik,156.0,130.0,130.0
+Eelektross,217.0,152.0,170.0
+Elgyem,148.0,100.0,110.0
+Beheeyem,221.0,172.0,150.0
+Litwick,108.0,98.0,100.0
+Lampent,169.0,115.0,120.0
+Chandelure,271.0,182.0,120.0
+Axew,154.0,111.0,92.0
+Fraxure,212.0,133.0,132.0
+Haxorus,284.0,183.0,152.0
+Cubchoo,128.0,74.0,110.0
+Beartic,200.0,152.0,190.0
+Cryogonal,190.0,259.0,140.0
+Shelmet,72.0,149.0,100.0
+Accelgor,220.0,131.0,160.0
+Stunfisk,144.0,177.0,218.0
+Mienfoo,160.0,98.0,90.0
+Mienshao,258.0,127.0,130.0
+Druddigon,213.0,170.0,154.0
+Golett,127.0,92.0,118.0
+Golurk,222.0,154.0,178.0
+Pawniard,154.0,129.0,90.0
+Bisharp,232.0,191.0,130.0
+Bouffalant,195.0,182.0,190.0
+Rufflet,150.0,97.0,140.0
+Braviary,232.0,152.0,200.0
+Vullaby,105.0,144.0,140.0
+Mandibuzz,129.0,210.0,220.0
+Heatmor,204.0,129.0,170.0
+Durant,217.0,222.0,116.0
+Deino,116.0,93.0,104.0
+Zweilous,159.0,135.0,144.0
+Hydreigon,256.0,188.0,184.0
+Larvesta,156.0,107.0,110.0
+Volcarona,264.0,210.0,170.0
+Cobalion,192.0,260.0,182.0
+Terrakion,260.0,192.0,182.0
+Virizion,192.0,260.0,182.0
+TornadusIncarnate Forme,266.0,169.0,158.0
+TornadusTherian Forme,238.0,194.0,158.0
+ThundurusIncarnate Forme,266.0,169.0,158.0
+ThundurusTherian Forme,295.0,166.0,158.0
+Reshiram,302.0,242.0,200.0
+Zekrom,302.0,242.0,200.0
+LandorusIncarnate Forme,261.0,187.0,178.0
+LandorusTherian Forme,289.0,184.0,178.0
+Kyurem,270.0,187.0,250.0
+KyuremBlack Kyurem,341.0,206.0,250.0
+KyuremWhite Kyurem,341.0,206.0,250.0
+KeldeoOrdinary Forme,260.0,192.0,182.0
+KeldeoResolute Forme,260.0,192.0,182.0
+MeloettaAria Forme,250.0,250.0,200.0
+MeloettaPirouette Forme,269.0,196.0,200.0
+Genesect,252.0,199.0,142.0
+Chespin,110.0,116.0,112.0
+Quilladin,146.0,174.0,122.0
+Chesnaught,201.0,227.0,176.0
+Fennekin,116.0,112.0,80.0
+Braixen,171.0,136.0,118.0
+Delphox,230.0,204.0,150.0
+Froakie,122.0,86.0,82.0
+Frogadier,168.0,116.0,108.0
+Greninja,223.0,154.0,144.0
+Bunnelby,68.0,73.0,76.0
+Diggersby,112.0,155.0,170.0
+Fletchling,95.0,83.0,90.0
+Fletchinder,145.0,111.0,124.0
+Talonflame,176.0,156.0,156.0
+Scatterbug,63.0,70.0,76.0
+Spewpa,48.0,103.0,90.0
+Vivillon,176.0,103.0,160.0
+Litleo,139.0,114.0,124.0
+Pyroar,221.0,152.0,172.0
+Flabébé,108.0,138.0,88.0
+Floette,136.0,175.0,108.0
+Florges,212.0,287.0,156.0
+Skiddo,123.0,107.0,132.0
+Gogoat,196.0,155.0,246.0
+Pancham,145.0,113.0,134.0
+Pangoro,226.0,149.0,190.0
+Furfrou,164.0,182.0,150.0
+Espurr,120.0,117.0,124.0
+MeowsticMale,166.0,170.0,148.0
+MeowsticFemale,166.0,170.0,148.0
+Honedge,135.0,167.0,90.0
+Doublade,188.0,253.0,118.0
+AegislashBlade Forme,291.0,97.0,120.0
+AegislashShield Forme,97.0,291.0,120.0
+Spritzee,110.0,116.0,156.0
+Aromatisse,173.0,158.0,202.0
+Swirlix,109.0,123.0,124.0
+Slurpuff,168.0,168.0,164.0
+Inkay,98.0,98.0,106.0
+Malamar,177.0,172.0,172.0
+Binacle,96.0,124.0,84.0
+Barbaracle,194.0,220.0,144.0
+Skrelp,109.0,109.0,100.0
+Dragalge,177.0,223.0,130.0
+Clauncher,108.0,118.0,100.0
+Clawitzer,221.0,172.0,142.0
+Helioptile,115.0,83.0,88.0
+Heliolisk,219.0,190.0,124.0
+Tyrunt,158.0,138.0,116.0
+Tyrantrum,227.0,221.0,164.0
+Amaura,124.0,116.0,154.0
+Aurorus,186.0,173.0,246.0
+Sylveon,203.0,237.0,190.0
+Hawlucha,195.0,160.0,156.0
+Dedenne,164.0,139.0,134.0
+Carbink,95.0,285.0,100.0
+Goomy,101.0,130.0,90.0
+Sliggoo,159.0,205.0,136.0
+Goodra,220.0,283.0,180.0
+Klefki,160.0,181.0,114.0
+Phantump,125.0,108.0,86.0
+Trevenant,201.0,157.0,170.0
+PumpkabooAverage Size,121.0,129.0,98.0
+PumpkabooSmall Size,122.0,131.0,88.0
+PumpkabooLarge Size,120.0,128.0,108.0
+PumpkabooSuper Size,118.0,127.0,118.0
+GourgeistAverage Size,175.0,236.0,130.0
+GourgeistSmall Size,171.0,243.0,110.0
+GourgeistLarge Size,179.0,229.0,150.0
+GourgeistSuper Size,182.0,222.0,170.0
+Bergmite,117.0,143.0,110.0
+Avalugg,196.0,303.0,190.0
+Noibat,83.0,76.0,80.0
+Noivern,205.0,175.0,170.0
+Xerneas,275.0,204.0,252.0
+Yveltal,275.0,204.0,252.0
+Zygarde50% Forme,203.0,245.0,216.0
+Diancie,190.0,285.0,100.0
+DiancieMega Diancie,342.0,235.0,100.0
+HoopaHoopa Confined,287.0,241.0,160.0
+HoopaHoopa Unbound,341.0,245.0,160.0
+Volcanion,252.0,231.0,160.0
